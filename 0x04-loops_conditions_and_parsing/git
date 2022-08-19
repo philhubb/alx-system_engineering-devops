@@ -1,5 +1,0 @@
-#!/bin/bash
-chmod u+x 1-for_best_school
-git add .
-git commit -m "Mandatory task"
-git push
